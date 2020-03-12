@@ -1,0 +1,13 @@
+Schema logico layer pyArchInit:
+
+Unità Stratigrafiche: pyunitastratigrafiche v
+
+Caratterizzazioni di strato: pycaratterizzazioni v
+
+Punti di riferimento: hff_punti_riferimento
+
+Piani di Sezioni: hff_sezioni
+
+Quote Unità Stratigrafiche: hff_quote
+
+Interpretazioni strutture: hff_strutture
